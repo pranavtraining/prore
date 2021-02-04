@@ -5,3 +5,4 @@ Welcome to Pranav Kitchen
 1.Java 
 2.Python 
 3.Kotlin 
+4.Angular JS 
